@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SHOP>
+  <SHOPITEM>
+    <ITEM_ID>001</ITEM_ID>
+    <PRODUCTNAME>Jídelní stůl Masiv</PRODUCTNAME>
+    <PRODUCT>Jídelní stůl Masiv - doprava po celé Čr</PRODUCT>
+    <DESCRIPTION>Masivní dubová deska o tloušťce 4 nebo 6 cm, vnitřní ocelové výztuhy, masivní dubové nohy 12x12 cm, výška stolu 76 cm</DESCRIPTION>
+    <URL>https://www.stolyzdubu.cz/product-page/jidelni-stul-masiv</URL>
+    <IMGURL>https://static.wixstatic.com/media/865d06_32d77a04890743ac812e5cb6e8466ed0~mv2.png/v1/fill/w_720,h_405,al_c,lg_1,q_85,enc_avif,quality_auto/865d06_32d77a04890743ac812e5cb6e8466ed0~mv2.png</IMGURL>
+    <PRICE_VAT>19292</PRICE_VAT>
+    <MANUFACTURER>Truhlářství Rous</MANUFACTURER>
+    <CATEGORYTEXT>Bydlení a doplňky | Nábytek | Stoly a stolky | Jídelní stoly</CATEGORYTEXT>
+    <PARAM>
+      <PARAM_NAME>Tvar</PARAM_NAME>
+      <VAL>obdélníkové</VAL>
+    </PARAM>
+    <PARAM>
+      <PARAM_NAME>Materiál desky</PARAM_NAME>
+      <VAL>dub</VAL>
+    </PARAM>
+    <PARAM>
+      <PARAM_NAME>Materiál nohou</PARAM_NAME>
+      <VAL>dřevěné</VAL>
+    </PARAM>
+    <PARAM>
+      <PARAM_NAME>Barva</PARAM_NAME>
+      <VAL>hnědé</VAL>
+    </PARAM>
+    <PARAM>
+      <PARAM_NAME>Délka</PARAM_NAME>
+      <VAL>100 cm</VAL>
+    <PARAM>
+      <PARAM_NAME>Výška</PARAM_NAME>
+      <VAL>76 cm</VAL>
+    <PARAM>
+      <PARAM_NAME>Tloušťka stolové desky</PARAM_NAME>
+      <VAL>40 mm</VAL>
+    </PARAM>
+    <DELIVERY_DATE>14</DELIVERY_DATE>
+    <DELIVERY>
+      <DELIVERY_ID>VLASTNI_PREPRAVA</DELIVERY_ID>
+      <DELIVERY_PRICE>1990</DELIVERY_PRICE>
+    </DELIVERY>
+  </SHOPITEM>
+
+
+</SHOP>
